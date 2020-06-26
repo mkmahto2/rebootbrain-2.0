@@ -1,0 +1,99 @@
+    1  passwd 
+    2  exit
+    3  firefox 
+    4  date
+    5  which  date
+    6  date  +%T
+    7  date  +%Y
+    8  date  +%A
+    9  date  +%a
+   10  date  +%B
+   11  date  +%b
+   12  clear
+   13  date  --help
+   14  info  date 
+   15  man  date 
+   16  history 
+   17  cal 
+   18  cal   2021
+   19  cal   3003
+   20  cal 1   3003
+   21  cal  2   3003
+   22  history 
+   23  ls
+   24  mkdir  oky
+   25  mkdir  ashutoshh
+   26  rmdir  ashutoshh
+   27  for((i=0;i<100;i++)); do mkdir  hellooo$i; done
+   28  for((i=0;i<100;i++)); do rmdir  hellooo$i; done
+   29  history 
+   30  mkdir  hello{1..50}
+   31  rmdir  hello{1..50}
+   32  history 
+   33  ls
+   34  mkdir  hello hii ok fine this is awesome 
+   35  ls
+   36  rm  /usr/bin/firefox 
+   37  dnf reinstall firefox 
+   38  date
+   39  cal
+   40  history 
+   41  ls  /
+   42  ls  /home
+   43  ls  /home/jack/
+   44  useradd  fine 
+   45  ls  /home
+   46  # for  ubuntu like  OS 
+   47  adduser  me 
+   48  ls  /home
+   49  exit
+   50  ls  /home
+   51  ls  /home/fire
+   52  ls  /home/fine
+   53  ls  /home/me
+   54  ls  /home/jack
+   55  ls  /
+   56  ls  /bin
+   57  /bin/date 
+   58  /bin/cal
+   59  whoami
+   60  pwd
+   61  cd  ~
+   62  pwd
+   63  cd /usr/local/
+   64  pwd
+   65  whoami
+   66  cd  ~
+   67  pwd
+   68  ls   
+   69  cd Music 
+   70  pwd
+   71  ls
+   72  cd 
+   73  pwd
+   74  cd  /
+   75  ls
+   76  cd  home
+   77  ls
+   78  cd  me
+   79  pwd
+   80  cd  /root/Desktop
+   81  pwd
+   82  cd 
+   83  cd /root/Desktop
+   84  pwd
+   85  history 
+   86  netstat -nlpt
+   87  dnf install openssh-server
+   88  systemctl start sshd
+   89  netstat -nlpt
+   90  ifconfig 
+   91  git
+   92  git clone https://www.github.com/redashu/rebootbrain-2.0
+   93  ls
+   94  cd  rebootbrain-2.0/
+   95  ls
+   96  mkdir june262020_day3
+   97  cd june262020_day3/
+   98  history 
+   99  history   >day1to3.txt
