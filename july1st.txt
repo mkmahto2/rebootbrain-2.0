@@ -1,0 +1,100 @@
+  167  /usr/bin/date
+  168  PATH=/usr/bin/date 
+  169  date
+  170  mkdir  /root/ashu
+  171  exit
+  172  echo $PATH
+  173  mkdir   /root/ashu
+  174  mv  /usr/bin/date  /root/ashu
+  175  date 
+  176  PATH=$PATH:/root/ashu
+  177  date
+  178  echo $PATH
+  179  systemctl halt 
+  180  cat /etc/shells 
+  181  nautilus  /root/
+  182  nautilus  /root/Downloads/
+  183  whoami
+  184  su - fire
+  185  cal 
+  186  cal   1  2020
+  187  cal   2  2020
+  188  cal -j   2  2020
+  189  cal  1  2020
+  190  cal -j  1  2020
+  191  cal  2  2020
+  192  cal -j  2  2020
+  193  history 
+  194  date
+  195  exit
+  196  date
+  197  cal
+  198  ls
+  199  whoami
+  200  history 
+  201  cal -j   2  2020
+  202  history 
+  203  date
+  204  cal -j   2  2020
+  205  history 
+  206  echo  $HISTSIZE
+  207  HISTSIZE=10000
+  208  echo  $HISTSIZE
+  209  date
+  210  history 
+  211  su - fire
+  212  mv  /home/fire/Videos/date   /home/fire/Videos/cal 
+  213  ls  -l /home/fire/Videos/cal
+  214  HISTSIZE=2
+  215  echo $HISTSIZE
+  216  cal
+  217  pwd
+  218  echo  hello world
+  219  exit
+  220  whoami
+  221  cd 
+  222  pwd
+  223  ls  -a
+  224  vim   .bashrc 
+  225  echo $HISTSIZE
+  226  gnome-terminal 
+  227  echo $HISTSIZE
+  228  source  /root/.bashrc 
+  229  echo $HISTSIZE
+  230  su  -  fire 
+  231  history 
+  232  script  
+  233  ls
+  234  cat  typescript 
+  235  history 
+  236  tcpdump   -i lo  
+  237  cal  2 3030 
+  238  cal   3  2020 
+  239  alias  covid='cal   3  2020' 
+  240  covid
+  241  cal 3  2020
+  242  vim   /root/.bashrc 
+  243  exit
+  244  covid
+  245  alias 
+  246  unalias  covid
+  247  covid
+  248  history 
+  249  useradd  u1
+  250  su - u1
+  251  su - u2 
+  252  usermod  -s  /bin/bash  u2
+  253  su - u2
+  254  useradd   -s   /bin/false  u4
+  255  su - u4
+  256  history 
+  257  history  -d  251
+  258  history 
+  259  netstat -nlpt
+  260  history 
+  261  git clone  https://github.com/redashu/rebootbrain-2.0
+  262  ls
+  263  cd rebootbrain-2.0/
+  264  history   |  tail -50
+  265  history   |  tail -100
+  266  history   |  tail -100  >july1st.txt
