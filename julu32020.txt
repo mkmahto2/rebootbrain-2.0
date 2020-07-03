@@ -1,0 +1,100 @@
+  277  pwd
+  278  exit
+  279  cal 
+  280  chmod   444  /usr/bin/cal 
+  281  date 
+  282  cal 
+  283  cal
+  284  cd
+  285  pwd
+  286  mkdir ""
+  287  mkdir " "
+  288  ls
+  289  mkdir  -okgoogle
+  290  mkdir  "-okgoogle"
+  291  mkdir --  -okgoogle
+  292  date
+  293  cla
+  294  cal
+  295  pwd
+  296  script   -t   2>july3.txt
+  297  ls
+  298  scriptreplay   july3.txt 
+  299  history 
+  300  echo $SHELL
+  301  echo $USER
+  302  env
+  303  history 
+  304  echo $PS1
+  305  cd  /usr/
+  306  PS1=" DelVex: ---- >>  "
+  307  vim /root/.bashrc 
+  308  ping  google.com
+  309  exit
+  310  stty  intr  a
+  311  ping google.com 
+  312  history 
+  313  stty  eof  b
+  314  stty  
+  315  stty  --help
+  316  history 
+  317  vim  /root/.bashrc 
+  318  chmod  +x /usr/bin/cal 
+  319  ls
+  320  cd  rebootbrain-2.0/
+  321  ls
+  322  mkdir july32020
+  323  cd  july32020/
+  324  ls
+  325  vim    first.sh 
+  326  bash first.sh 
+  327  vim    first.sh 
+  328  bash first.sh 
+  329  vim    first.sh 
+  330  bash first.sh 
+  331  vim    first.sh 
+  332  chmod +x  first.sh 
+  333  pwd
+  334  chmod +x  first.sh 
+  335  chmod -x  first.sh 
+  336  chmod +x  first.sh 
+  337  chmod -x  first.sh 
+  338  chmod +x  first.sh 
+  339  ls
+  340  ./first.sh 
+  341  pwd
+  342  /root/rebootbrain-2.0/july32020/first.sh 
+  343  history 
+  344  ls
+  345  vim first.sh 
+  346  ./first.sh 
+  347  vim first.sh 
+  348  vim  user_input.sh 
+  349  chmod +x user_input.sh 
+  350  ./user_input.sh 
+  351  vim  user_input.sh 
+  352  ./user_input.sh 
+  353  vim  user_input.sh 
+  354  ./user_input.sh 
+  355  vim  user_input.sh 
+  356  ./user_input.sh 
+  357  ss
+  358  ls
+  359  vim user_input.sh 
+  360  history 
+  361  ls
+  362  cd ..
+  363  ls
+  364  git  add .
+  365  git commit -m  "shell scripting"
+  366  git push 
+  367  ]]]
+  368  git push 
+  369  ls
+  370  ls -a
+  371  git push origin master -f
+  372  ls
+  373  history 
+  374  history   | tail -50
+  375  history   | tail -100
+  376  history   | tail -100  >julu32020.txt
