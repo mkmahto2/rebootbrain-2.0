@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "hey user $USER welcome to DelVEx : "
+sleep 1
+echo  "current time is `date +%T`"
+sleep 1 
+echo  "my name is `uname` and my version is `uname -r`"
