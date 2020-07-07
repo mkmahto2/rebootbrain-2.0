@@ -1,0 +1,150 @@
+  550  cal
+  551  kkk
+  552  cal
+  553  echo  $?
+  554  kkk
+  555  echo  $?
+  556  ls
+  557  vim  a.sh
+  558  bash a.sh 
+  559  bash -x  a.sh 
+  560  mkdir  hello
+  561  cd  hello/
+  562  ls
+  563  mkdir  a  .hii
+  564  ls  
+  565  ls  -a
+  566  ls  --all
+  567  cal 
+  568  cd  
+  569  cd  /root/Desktop/
+  570  ls
+  571  cal  
+  572  cal  >ashu.txt 
+  573  ls
+  574  cat  ashu.txt 
+  575  ls
+  576  whoami  >ashu.txt 
+  577  cat  ashu.txt 
+  578  ls
+  579  cat  ashu.txt 
+  580  cal   >>ashu.txt
+  581  cat  ashu.txt 
+  582  ls   >>ashu.txt
+  583  pwd   >>ashu.txt
+  584  ls
+  585  cat  ashu.txt 
+  586  history 
+  587  ls
+  588  kkkk
+  589  kkkk   >ashu.txt 
+  590  cat  ashu.txt 
+  591  cat   >hii.txt
+  592  ls
+  593  cat  hii.txt 
+  594  history 
+  595  >ok.txt
+  596  ls
+  597  which  >
+  598    >>okkcool.txt 
+  599  ls
+  600  >hii.txt 
+  601  cal  >hii.txt
+  602  cat  hii.txt 
+  603  >hii.txt 
+  604  cat  hii.txt 
+  605  cal >hii.txt
+  606  kkk   >hii.txt 
+  607  cat  hii.txt 
+  608  #cal     >hii.txt
+  609  #  cal  1>hii.txt  
+  610  cal   >hii.txt
+  611  cal  1>ok.txt
+  612  cat  hii.txt  
+  613  cat  ok.txt 
+  614  hisq
+  615  history 
+  616  kkkk  
+  617  echo  $?
+  618  kkkk  2>cool.txt
+  619  cat  cool.txt 
+  620  cal   2>ok.txt 
+  621  aaaa  2>>cool.txt 
+  622  cat  cool.txt 
+  623  cal  >>cool.txt 
+  624  cat  cool.txt 
+  625  history 
+  626  cal   &>kool.txt
+  627  kkk   &>kool.txt
+  628  cat  kool.txt 
+  629  kkk   &>>kool.txt
+  630  cal   &>>kool.txt
+  631  ls
+  632  cd
+  633  ls
+  634  bash a.sh 
+  635  cd De
+  636  pwd
+  637  cd Desktop/
+  638  ls
+  639  date  >/dev/null
+  640  date  &>/dev/null
+  641  cal  &>/dev/null 
+  642  echo  hello
+  643  cal 
+  644  cal   >/dev/pts/1
+  645  whoami  >/dev/pts/1
+  646  pwd  >/dev/pts/1
+  647  echo Hola  >/dev/pts/1
+  648  tty
+  649  echo  hello  >/dev/pts/1
+  650  echo  hello  >/dev/pts/2
+  651  cal  >ok.txt
+  652  cat  ok.txt 
+  653  wc  -l   ok.txt 
+  654  wc  -w   ok.txt 
+  655  wc  -c   ok.txt 
+  656  wc    ok.txt 
+  657  wc -l -w -c   ok.txt 
+  658  wc  ok.txt 
+  659  history 
+  660  cat  ok.txt 
+  661  cal   |   wc  -l  
+  662  cal   |  wc  -l 
+  663  cal   |  wc  -w
+  664  cal   |  wc  -c
+  665  cal   |  wc  
+  666  cal   |  wc    >count.txt
+  667  cat count.txt 
+  668  cal |  >a.txt
+  669  cat  a.txt 
+  670  cal  |  whoami
+  671  cal 
+  672  cal  |  wc  -l 
+  673  ls
+  674  echo  hello  |   tr  'a-z'  'A-Z'
+  675  vim   data.txt
+  676  cat  data.txt   |   tr  'a-z'  'A-Z'
+  677  cat  data.txt 
+  678  history 
+  679  cat   |   tr  'a-z'  'A-Z'
+  680  cat   |   tr  'a-z'  'A-Z'   >caps.txt
+  681  cat  caps.txt 
+  682  history 
+  683  ls
+  684  cd
+  685  ls
+  686  cd  Desktop/
+  687  ls
+  688  history  
+  689  history    |  tail -150 
+  690  history    |  tail -150  
+  691  history    |  tail -150    >rebootbrain-2.0/july7th2020.txt
+  692  cd rebootbrain-2.0/
+  693  ls
+  694  cd
+  695  ls
+  696  cd  rebootbrain-2.0/
+  697  ls
+  698  history    |  tail -150    july7th2020.txt
+  699  history    |  tail -150    >july7th2020.txt
